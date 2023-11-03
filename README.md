@@ -1,6 +1,9 @@
-## Repository of pwskills Data Science Masters {impact batch (29th jan 23)}
+## pwskills Data_Science_Masters (impact batch) repository 
+
+_(29th jan 23)_
 
 _containing source codes, notes, assignments_
+
 ## Topics Covered :
 - Python
 - Statistics
