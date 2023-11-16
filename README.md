@@ -2,8 +2,11 @@
 
 _(29th jan 23)_
 
-_containing source codes, notes, assignments_
-
+## Dir Info :
+- source code - _codes performed by lecturers during class_
+- assignment - _codes performed by me for homework and assignment_
+- notes - _theoretical notes given by lecturers during class_
+  
 ## Topics Covered :
 - Python
 - Statistics
